@@ -69,3 +69,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # react-redux-pro
+
+# Kullanılan teknolojiler 
+react - redux, tailwindcss kullanılmıştır 
+
+
+# Ekran Kaydı 
+
+
+
+https://github.com/user-attachments/assets/75791c4d-7903-47d8-ba6b-a408f30cd9f1
+
